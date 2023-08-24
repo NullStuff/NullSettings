@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://ctoft6x7ied3l"]
 
-[ext_resource type="Script" path="res://addons/null_settings/scripts/ui elements/setting_label.gd" id="1_eeacg"]
+[ext_resource type="Script" path="res://addons/NullSettings/scripts/ui elements/setting_label.gd" id="1_eeacg"]
 
 [node name="SettingLabel" type="HBoxContainer"]
 offset_right = 1.0

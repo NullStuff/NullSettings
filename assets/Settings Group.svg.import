@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2aa4wedtidye"
-path="res://.godot/imported/Settings Group.svg-1c55bf0cdd9fac9031ad46f7cd501c16.ctex"
+path="res://.godot/imported/Settings Group.svg-0c80b475a7edb5b74e84a98d3e17f84b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/null_settings/assets/Settings Group.svg"
-dest_files=["res://.godot/imported/Settings Group.svg-1c55bf0cdd9fac9031ad46f7cd501c16.ctex"]
+source_file="res://addons/NullSettings/assets/Settings Group.svg"
+dest_files=["res://.godot/imported/Settings Group.svg-0c80b475a7edb5b74e84a98d3e17f84b.ctex"]
 
 [params]
 

@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://bal0q2iabufe5"]
 
-[ext_resource type="Script" path="res://addons/null_settings/scripts/setting.gd" id="1_fetei"]
-[ext_resource type="Script" path="res://addons/null_settings/scripts/ui elements/file_dialog_setting.gd" id="1_uj55s"]
+[ext_resource type="Script" path="res://addons/NullSettings/scripts/setting.gd" id="1_fetei"]
+[ext_resource type="Script" path="res://addons/NullSettings/scripts/ui elements/file_dialog_setting.gd" id="1_uj55s"]
 
 [node name="FileDialog Setting" type="HBoxContainer"]
 anchors_preset = 15

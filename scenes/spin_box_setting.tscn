@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://dkjgx2dxbvebu"]
 
-[ext_resource type="Script" path="res://addons/null_settings/scripts/ui elements/spin_box_setting.gd" id="1_7c1ih"]
-[ext_resource type="Script" path="res://addons/null_settings/scripts/setting.gd" id="2_85y81"]
+[ext_resource type="Script" path="res://addons/NullSettings/scripts/ui elements/spin_box_setting.gd" id="1_7c1ih"]
+[ext_resource type="Script" path="res://addons/NullSettings/scripts/setting.gd" id="2_85y81"]
 
 [node name="SpinBox Setting" type="SpinBox"]
 update_on_text_changed = true

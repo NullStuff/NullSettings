@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://dm8tqlhnfiug5"]
 
-[ext_resource type="Script" path="res://addons/null_settings/scripts/ui elements/option_button_setting.gd" id="1_bow7c"]
-[ext_resource type="Script" path="res://addons/null_settings/scripts/setting.gd" id="2_a0vib"]
+[ext_resource type="Script" path="res://addons/NullSettings/scripts/ui elements/option_button_setting.gd" id="1_bow7c"]
+[ext_resource type="Script" path="res://addons/NullSettings/scripts/setting.gd" id="2_a0vib"]
 
 [node name="OptionButton Setting" type="OptionButton"]
 offset_right = 14.0
