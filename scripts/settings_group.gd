@@ -1,5 +1,5 @@
 extends Setting
-class_name SettingsGroup
+# class_name SettingsGroup
 ## A node to manage a group of settings under a single sub-key.
 
 

@@ -1,5 +1,5 @@
 extends Node
-class_name Setting
+# class_name Setting
 ## A node which manages a single setting. All settings nodes eventually inherit from this.
 ##
 ## This node emits a signal when a value is loaded so that other nodes like UI elements can handel
