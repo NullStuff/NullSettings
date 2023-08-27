@@ -1,5 +1,4 @@
-extends SettingsGroup
-# class_name SettingsFile
+class_name SettingsFile extends SettingsGroup
 ## A node to use at the root of your settings tree which saves and loads settings into and out of a file.
 
 

@@ -15,7 +15,7 @@ extends CheckButton
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	_setting._key = setting_key
-	if _setting._value == null:
+	if _setting.get_value() == null:
 		_setting.load_value(toggle_mode)
 
 
